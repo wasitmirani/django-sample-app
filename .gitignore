@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+firstapp/__pycache__
 *.py[cod]
 *$py.class
 
@@ -49,3 +50,4 @@ pyrightconfig.json
 *.DS_Store
 *.vscode/
 *.idea/
+firstapp/__pycache__
